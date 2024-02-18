@@ -2,7 +2,7 @@
 - 👀 I’m interested in mag minecradt
 - 🌱 I’m currently learning roblox
 - 💞️ I’m looking to collaborate on roblox
-- 📫 Email me "jeramy.ontangco011A@gmail.com"
+- 📫 Email me "jeramy.ontangco011@gmail.com"
 
 <!---
 jeraty/jeraty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
